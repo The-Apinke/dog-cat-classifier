@@ -50,11 +50,4 @@ Cats and dogs can be photographed at different angles, positions, and distances.
 - ImageDataGenerator for augmentation
 - scikit-learn for train/test split and evaluation metrics
 
-## Running the Code
 
-The notebook has all the code in order. You'll need a GPU (I used Google Colab's free tier). Just run the cells sequentially. The trained model is saved as `best_model.keras`.
-
-## Files
-
-- `dog_cat_classifier_final.ipynb` - Complete notebook with code and explanations
-- `README.md` - This file
